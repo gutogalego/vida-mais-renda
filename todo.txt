@@ -1,0 +1,3 @@
+- Adicionar script hotjar / analitics
+- Adicionar logo, adicionar outra aba com informações mais detalhadas.
+- Adicionar outro dominio extra com SEO dit para devs
